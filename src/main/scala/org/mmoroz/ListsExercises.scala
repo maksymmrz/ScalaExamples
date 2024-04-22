@@ -1,5 +1,4 @@
 package org.mmoroz
-package org.mmoroz
 
 import scala.annotation.tailrec
 
